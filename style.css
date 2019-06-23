@@ -1,0 +1,29 @@
+body{
+    
+}
+
+#calc {
+    background: lightslategray; 
+    width: 180px;
+    height: 250px;
+}
+
+.button { 
+    background: darkgray;
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin: 0,1px;
+    
+    }
+.visor {
+    width: 167px;
+    margin-left: 5px;
+    
+}
+
+h1 {
+    color: #FF6347; 
+    margin-left: 8px;
+}
